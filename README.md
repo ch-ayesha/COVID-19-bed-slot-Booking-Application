@@ -147,12 +147,8 @@ Covid-Center platform provides real-time data on availability of beds globally a
 - [Canva](https://www.canva.com)
 
 
-
-## Research Document
-[Look at our Research Document, please!]()
-
-
 ## Final Video
+
 [*To be a champion, compete; to be a great champion, compete with the best; but to be the greatest champion, compete with yourself*](https://www.youtube.com/watch?v=NhgYni1v8QI&feature=emb_logo)
 
 
