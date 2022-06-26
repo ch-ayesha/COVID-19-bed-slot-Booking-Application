@@ -19,40 +19,14 @@ App will provide Online Registration System is a framework to link various hospi
  ![image-ER](https://user-images.githubusercontent.com/108192526/175801530-236e8350-47c0-45b8-b03f-1ab641e2db52.jpeg)
  
 ## Module List 
-Admin 
-•	All Patient details 
-•	Report of Covid test/vaccination 
-o	Test report, Vaccination (Date/week/monthly report)
-•	List of vaccine 
-o	available or unavailable
-•	Approval Hospital Login 
-•	List of hospitals
-•	Booking Details
-Hospital
-•	Register 
-•	Login 
-•	List of patient details 
-•	Request from patient (Covid test/Vaccination)
-o	Approve or Reject
-•	Update Covid test result
-•	Update Vaccination status
-Patient 
-•	Register 
-•	Get OTP 
-•	Verify OTP
-•	Login
-•	Search Covid Test/Vaccination hospital
-•	Request for Covid Test/Vaccination for hosptial 
-•	Report of covid test/Vaccination taken 
-•	Book Hospital appoinment 
-•	My appoinment
-•	View Results 
-•	My profile
-
+ ### 1. Admin 
+ ### 2. Hospital
+ ### 3. Patient 
 
 ## Modules Description 
 
 # Admin
+
 •	All patient details 
 o	View all patient profile details 
 •	Report of COVID - 19 
@@ -70,6 +44,7 @@ o	Admin can view  the hosptial details
 o	Admin can view the booking details from parent side for booking COVID -  19 test results
 
 # Hospital
+
 •	Register & Login 
 o	Can register and login into the app with hospital name, address and location details.
 •	List of patient details
@@ -82,6 +57,7 @@ o	Hospitals will be updated the patient’s covid – 19 results.
 o	Hospitals will be updated the patient’s vaccination status.
 
 # Patient
+
 •	Register & Login
 o	 Patient Can register and login into the app with patient name, address and location details.
 •	Get OTP and verify OTP
