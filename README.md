@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/108192526/175801501-072a727e-c326-40e1-b650-035aa267ebaa.jpeg) 
 
 
-# Challenge Theme - Enviornment & Sustainability 
+# Challenge Theme - Open Innovation 
 ## Prototype - COVID-19 Bed Slot Booking Application (Covid-Center)
 -----------------------------------------------------------------------------
 
