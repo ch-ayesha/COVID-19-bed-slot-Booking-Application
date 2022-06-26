@@ -26,7 +26,7 @@ People have issue in locating which hospital has available beds before they can 
 
 ## Our Solution 
 
-- Raising awareness & providing a platform “Coral Gardeners” for global partnerships (sponsorships with different companies):
+- Providing a platform “Kahan” for global partnerships (sponsorships with different hospitals):
   - **_“Coral Gardeners”_**  platform where people gather information about Coral Reefs and how to preserve them.
   - World Map that provides clear indicators & upcoming events.
   - The community will be informed about the activities that our partners sponsored.  
