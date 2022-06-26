@@ -58,6 +58,7 @@ App will provide Online Registration System is a framework to link various hospi
 
 # Hospital
 
+
 •	Register & Login 
 
       o	Can register and login into the app with hospital name, address and location details.
@@ -78,6 +79,9 @@ App will provide Online Registration System is a framework to link various hospi
 
       o	Hospitals will be updated the patient’s vaccination status.
       
+
+![image](https://github.com/ch-ayesha/COVID-19-bed-slot-Booking-Application/blob/main/Hospital-staff%20login%20page%20.jpeg)
+
 
 # Patient
 
@@ -125,12 +129,13 @@ App will provide Online Registration System is a framework to link various hospi
 ## Technology Used
 - HTML-CSS (Frontend)
 - Flask Framework (Backend)
+- MySQL (Database)
 - [Canva](https://www.canva.com)
 
 
 
 ## Research Document
-[Look at our Research Document, please!](https://docs.google.com/document/d/10IbE9c50wdzqiuzbYAXASws7El42F2Wu2A7X2pXdGYM/edit)
+[Look at our Research Document, please!]()
 
 
 ## Final Video
