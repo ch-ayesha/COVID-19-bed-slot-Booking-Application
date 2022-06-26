@@ -1,12 +1,12 @@
 # COVID-19-bed-slot-Booking-Application
-# United Nations World Innovation Day Hack 2022  
+# PowerToFly Diversity Hackathon 2022  
  
-![image](https://drive.google.com/file/d/1VQcWe5VRa_brmN9c23lgJnGf4iZLNgXD/view?usp=sharing)
+![image]([https://drive.google.com/file/d/1VQcWe5VRa_brmN9c23lgJnGf4iZLNgXD/view?usp=sharing](https://drive.google.com/file/d/1iPt9MtOn9eIch8NgK85fXjJulhkyRFaX/view?usp=sharing))
 
 # Challenge Theme # 1 - Enviornment & Sustainabiliity
-# Coral Gardeners [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Kahan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresor)
 
-CORAL GARDENERS platform provides data, real &amp; virtual world activities for everyone who wants to be part of preserving Coral Reefs. 
+Kahan platform provides data, real-time &amp; upon the availability of hospital beds globally for COVID-19 Patients.
 
 ## Introduction
 A coral reef is an underwater ecosystem characterised by reef-building corals. Reefs are formed of colonies of coral polyps held together by calcium carbonate.  Most coral reefs are built from stony corals, whose polyps cluster in groups. They are sometimes called the rainforests of the sea, they occupy less than 0.1% of the world’s ocean area, yet they provide a home for at least 25% of all marine species including fish, worms, crustaceans, etc.
