@@ -4,7 +4,7 @@
 
 
 # Challenge Theme - Enviornment & Sustainability 
-## Prototype - COVID-19 Bed Slot Booking Application 
+## Prototype - COVID-19 Bed Slot Booking Application (Covid-Center)
 -----------------------------------------------------------------------------
 
 ## Introduction
@@ -22,20 +22,18 @@ People across the globe have issue regarding availability of beds within the hos
 ## Solution 
 Covid-Center platform provides real-time data on availability of beds globally and can the patients can register a bed as per its availability with the hospital located nearest to them.
 
+![image](https://github.com/ch-ayesha/COVID-19-bed-slot-Booking-Application/blob/main/Home%20Page.jpeg)
+
+
 ## ER- Diagram
  ![image-ER](https://user-images.githubusercontent.com/108192526/175801530-236e8350-47c0-45b8-b03f-1ab641e2db52.jpeg)
  
 ## Module List 
- ### 0. Home 
  ### 1. Admin 
  ### 2. Hospital
  ### 3. Patient 
 
 ## Modules Description 
-
-# Home 
-
-![image](https://github.com/ch-ayesha/COVID-19-bed-slot-Booking-Application/blob/main/Home%20Page.jpeg)
 
 # Admin
 
