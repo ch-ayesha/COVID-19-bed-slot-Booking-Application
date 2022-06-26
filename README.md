@@ -22,7 +22,7 @@ Coronaviruses are often found in bats, cats and camels. The viruses live in but 
 
 People have issue in locating which hospital has available beds before they can take care loved one's for a checkup.
 
-![image](https://static.wixstatic.com/media/c0fb09_f9afbb32cc274256a5e8c384cdbc3013~mv2.jpg/v1/fill/w_512,h_288,al_c/c0fb09_f9afbb32cc274256a5e8c384cdbc3013~mv2.jpg)
+![image](https://images.thestar.com/2gIzqRR91DcvDb474M0Bn6t2vLU=/1280x1024/smart/filters:cb(1570037578297)/https://www.thestar.com/content/dam/thestar/life/health_wellness/2010/08/29/smart_hospital_beds_take_care_of_patients/hospitalbedsjpg.jpeg)
 
 ## Our Solution 
 
