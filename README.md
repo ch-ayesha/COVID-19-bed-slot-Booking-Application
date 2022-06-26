@@ -1,15 +1,10 @@
 
-
 # Power To Fly Hackathon 2022  
 ![image](https://user-images.githubusercontent.com/108192526/175801501-072a727e-c326-40e1-b650-035aa267ebaa.jpeg) 
 
 
 # Challenge Theme # COVID-19 Bed Slot Booking Application 
-
-![COVID](https://user-images.githubusercontent.com/108192526/175802706-4c660333-8012-4807-bc70-246e23d88c3d.jpg)
-
-
-
+-----------------------------------------------------------------------------
 ## Introduction
 Across the world, people are facing unforeseen challenges due to Coronavirus pandemic. Almost 213 countries are under the influence of the virus and the whole world population is uncertain about how long this pandemic will last. The only thing that can prevent its exponential growth apart from a vaccine is to be well aware of the situation and follow the necessary precautions. In this project, we design and develop  web application for online test and bed slot booking system for patient. The Covid 19 app connects the people with the hospital and the administration to come together and fight the pandemic. With this app, one can track the vaccination appointment, history and covid solution guidelines for symptoms. Web applications like these help to provide the essential information about solution for covid in this pandemic.
 
@@ -17,10 +12,12 @@ App will provide Online Registration System is a framework to link various hospi
 
 *You can find more about COVID-19 here: [`COVID-19`](https://en.wikipedia.org/wiki/COVID-19)*
 
-##ER- Diagram
+![image](https://upload.wikimedia.org/wikipedia/commons/4/48/Fphar-11-00937-g001.jpg)
+
+## ER- Diagram
  ![image-ER](https://user-images.githubusercontent.com/108192526/175801530-236e8350-47c0-45b8-b03f-1ab641e2db52.jpeg)
  
-##Module List 
+## Module List 
 Admin 
 •	All Patient details 
 •	Report of Covid test/vaccination 
@@ -52,9 +49,9 @@ Patient
 •	My profile
 
 
-##Modules Description 
+## Modules Description 
 
-#Admin
+# Admin
 •	All patient details 
 o	View all patient profile details 
 •	Report of COVID - 19 
@@ -71,7 +68,7 @@ o	Admin can view  the hosptial details
 •	Booking Details
 o	Admin can view the booking details from parent side for booking COVID -  19 test results
 
-#Hospital
+# Hospital
 •	Register & Login 
 o	Can register and login into the app with hospital name, address and location details.
 •	List of patient details
@@ -83,7 +80,7 @@ o	Hospitals will be updated the patient’s covid – 19 results.
 •	Update vaccination status
 o	Hospitals will be updated the patient’s vaccination status.
 
-#Patient
+# Patient
 •	Register & Login
 o	 Patient Can register and login into the app with patient name, address and location details.
 •	Get OTP and verify OTP
