@@ -3,7 +3,8 @@
 ![image](https://user-images.githubusercontent.com/108192526/175801501-072a727e-c326-40e1-b650-035aa267ebaa.jpeg) 
 
 
-# Challenge Theme # COVID-19 Bed Slot Booking Application 
+# Challenge Theme - Enviornment & Sustainability 
+## Prototype - COVID-19 Bed Slot Booking Application 
 -----------------------------------------------------------------------------
 ## Introduction
 Across the world, people are facing unforeseen challenges due to Coronavirus pandemic. Almost 213 countries are under the influence of the virus and the whole world population is uncertain about how long this pandemic will last. The only thing that can prevent its exponential growth apart from a vaccine is to be well aware of the situation and follow the necessary precautions. In this project, we design and develop  web application for online test and bed slot booking system for patient. The Covid 19 app connects the people with the hospital and the administration to come together and fight the pandemic. With this app, one can track the vaccination appointment, history and covid solution guidelines for symptoms. Web applications like these help to provide the essential information about solution for covid in this pandemic.
