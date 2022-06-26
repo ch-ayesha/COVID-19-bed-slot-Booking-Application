@@ -14,6 +14,8 @@ Across the world, people are facing unforeseen challenges due to Coronavirus pan
 
 App will provide Online Registration System is a framework to link various hospitals across the country for  mobile number (email) based online registration and appointment system through Hospital Management Information System (HMIS) has been digitalized. Portal facilitates online appointments with various departments of different Hospitals using  data of CNIC number. Detail reports showing information about test and vaccination patients taking appointment through this portal can be seen. Hospitals can come on board this platform and provide their appointment slots for online booking by patients. The system facilitates Hospitals to easily manage their registration and appointment process and monitor the flow of patients.
 
+*You can find more about COVID-19 here: [`COVID-19`](https://en.wikipedia.org/wiki/COVID-19)*
+
 ##ER- Diagram
  ![image-ER](https://user-images.githubusercontent.com/108192526/175801530-236e8350-47c0-45b8-b03f-1ab641e2db52.jpeg)
  
