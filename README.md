@@ -6,6 +6,7 @@
 # Challenge Theme - Enviornment & Sustainability 
 ## Prototype - COVID-19 Bed Slot Booking Application 
 -----------------------------------------------------------------------------
+
 ## Introduction
 Across the world, people are facing unforeseen challenges due to Coronavirus pandemic. Almost 213 countries are under the influence of the virus and the whole world population is uncertain about how long this pandemic will last. The only thing that can prevent its exponential growth apart from a vaccine is to be well aware of the situation and follow the necessary precautions. In this project, we design and develop  web application for online test and bed slot booking system for patient. The Covid 19 app connects the people with the hospital and the administration to come together and fight the pandemic. With this app, one can track the vaccination appointment, history and covid solution guidelines for symptoms. Web applications like these help to provide the essential information about solution for covid in this pandemic.
 
@@ -27,55 +28,92 @@ App will provide Online Registration System is a framework to link various hospi
 
 # Admin
 
-•	All patient details 
-o	View all patient profile details 
+•	All patient details
+
+      o	View all patient profile details 
+   
 •	Report of COVID - 19 
-o	patient, COVID – 19 test report(Date wise report)
-o	Admin can export the details in xls format by date , week and month wise report 
+
+      o	patient, COVID – 19 test report(Date wise report)
+      o	Admin can export the details in xls format by date , week and month wise report 
+      
 •	List of vaccine 
-o	available or unavailable
-o	Admin can view the availability of the vaccination 
+
+      o	available or unavailable
+      o	Admin can view the availability of the vaccination
+      
 •	Approve Hospital Login
-o	Approve or Reject
-o	Once the request for appoinment from patient side, it will be approved from the admin 
+
+      o	Approve or Reject
+      o	Once the request for appoinment from patient side, it will be approved from the admin
+      
 •	List of hospitals
-o	Admin can view  the hosptial details 
+
+      o	Admin can view the hosptial details 
+      
 •	Booking Details
-o	Admin can view the booking details from parent side for booking COVID -  19 test results
+
+      o	Admin can view the booking details from parent side for booking COVID-19 test results
 
 # Hospital
 
 •	Register & Login 
-o	Can register and login into the app with hospital name, address and location details.
+
+      o	Can register and login into the app with hospital name, address and location details.
+
 •	List of patient details
-o	Hospitals can be view the patient details who are all approve for COVID – 19 tests.
+
+      o	Hospitals can be view the patient details who are all approve for COVID – 19 tests.
+      
 •	Request from patient
-o	Hospitals can be request to the patient from the hospital side who are all approved / rejected for covid – 19 test / vaccination.
+
+      o	Hospitals can be request to the patient from the hospital side who are all approved / rejected for covid – 19 test / vaccination.
+      
 •	Update covid – 19 result 
-o	Hospitals will be updated the patient’s covid – 19 results.
+
+      o	Hospitals will be updated the patient’s covid – 19 results.
+
 •	Update vaccination status
-o	Hospitals will be updated the patient’s vaccination status.
+
+      o	Hospitals will be updated the patient’s vaccination status.
 
 # Patient
 
 •	Register & Login
-o	 Patient Can register and login into the app with patient name, address and location details.
+
+      o	 Patient Can register and login into the app with patient name, address and location details.
+      
 •	Get OTP and verify OTP
-o	Patient Can register once they get OTP number and enter the OTP number can be verified from the admin
+
+      o	Patient Can register once they get OTP number and enter the OTP number can be verified from the admin
+      
 •	Search covid-19 / vaccination hospital
-o	Patient Can search the covid-19  hospitals and get from the vaccination hospitals
+
+     o	Patient Can search the covid-19  hospitals and get from the vaccination hospitals
+     
 •	Request for covid-19 test / vaccination hospital
-o	A Patient Can request to the hospital for the covid-19 test. It will approve patient can taken vaccination from the hospitals
+
+     o	A Patient Can request to the hospital for the covid-19 test. It will approve patient can taken vaccination from the hospitals
+     
 •	Report of covid test/Vaccination taken 
-o	A Patient can take the covid-19 test result report and their suggestion vaccination.
+
+     o	A Patient can take the covid-19 test result report and their suggestion vaccination.
+     
 •	Book Hospital appoinment 
-o	A Patient will booking the appointment from the hospitals and tested the covid-19 tests.
+
+     o	A Patient will booking the appointment from the hospitals and tested the covid-19 tests.
+
 •	My appointment
-o	A Patient will check the appointment timing and hospital details from the My appointement module.
+
+     o	A Patient will check the appointment timing and hospital details from the My appointement module.
+     
 •	View Results 
-o	A Patient can view their covid-19 test results and vaccination suggestions also.
+
+    o	A Patient can view their covid-19 test results and vaccination suggestions also.
+    
 •	My profile
-o	A patient will check the profile details and also edit or delete the other information also.
+
+    o	A patient will check the profile details and also edit or delete the other information also.
 
 
 
