@@ -19,7 +19,7 @@ Coronaviruses are often found in bats, cats and camels. The viruses live in but 
 
 ## Problem Statement
 
-Coral Reefs have been dying out at a rapid pace over the years. This is due to a wide set of reasons like inadequate awareness among the community, lack of knowledgeable resources for all ages, ineffective climate measures etc. Human activity and a warming planet are rapidly degrading these precious and fragile ecosystems.
+People have issue in locating which hospital has available beds before they can take care loved one's for a checkup.
 
 ![image](https://static.wixstatic.com/media/c0fb09_f9afbb32cc274256a5e8c384cdbc3013~mv2.jpg/v1/fill/w_512,h_288,al_c/c0fb09_f9afbb32cc274256a5e8c384cdbc3013~mv2.jpg)
 
