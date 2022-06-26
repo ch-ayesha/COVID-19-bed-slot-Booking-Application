@@ -1,8 +1,9 @@
-# Power To Fly Hackathon 2022  
+# COVID-19-bed-slot-Booking-Application
+# United Nations World Innovation Day Hack 2022  
  
-![image](https://drive.google.com/uc?export=view&id=1eTXPdc-J3QS6rfEY0cxUFFU_ugJ382o3)
+![image](https://drive.google.com/file/d/1VQcWe5VRa_brmN9c23lgJnGf4iZLNgXD/view?usp=sharing)
 
-# Challenge Theme # 1 - Tech for Good 
+# Challenge Theme # 1 - Enviornment & Sustainabiliity
 # Coral Gardeners [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 CORAL GARDENERS platform provides data, real &amp; virtual world activities for everyone who wants to be part of preserving Coral Reefs. 
