@@ -128,4 +128,5 @@ o	A patient will check the profile details and also edit or delete the other inf
 
 ## Our Amazing Team
 
-![Team Kahan](https://user-images.githubusercontent.com/108192526/175800974-6e6621f3-b275-4da4-907e-8ceb9491b53c.jpg) 
+![Team Kahan](https://user-images.githubusercontent.com/108192526/175802638-c085f4ff-922f-4771-92b3-4b2969663591.jpeg)
+
