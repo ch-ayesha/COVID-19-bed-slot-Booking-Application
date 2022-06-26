@@ -1,104 +1,118 @@
-# COVID-19-bed-slot-Booking-Application
-# PowerToFly Diversity Hackathon 2022  
-![image](https://media-exp2.licdn.com/dms/image/C5622AQHKIuI-8LrJaw/feedshare-shrink_800/0/1656010444025?e=1658966400&v=beta&t=nkls2PbqABTYhar0xfZ8vi5Gb8GPKYLAlIarou_q5ic)
----------------------------------------------------------------------------------------------- 
 
-# Challenge Theme # 1 - Enviornment & Sustainabiliity
-# Kahan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresor)
-----------------------------------------------------------------------------------------------
+# Power To Fly Hackathon 2022  
+![image](https://user-images.githubusercontent.com/108192526/175801501-072a727e-c326-40e1-b650-035aa267ebaa.jpeg) 
 
-Kahan platform provides data, real-time &amp; upon the availability of hospital beds globally for COVID-19 Patients.
+
+# Challenge Theme # COVID-19 Bed Slot Booking Application 
+
+
+
+
 
 ## Introduction
-Coronaviruses are a family of viruses that can cause respiratory illness in humans. They are called “corona” because of crown-like spikes on the surface of the virus. Severe acute respiratory syndrome (SARS), Middle East respiratory syndrome (MERS) and the common cold are examples of coronaviruses that cause illness in humans.
-The new strain of coronavirus — SARS-CoV-2 — was first reported in Wuhan, China in December 2019. It has since spread to every country around the world. 
-Coronaviruses are often found in bats, cats and camels. The viruses live in but don’t infect the animals. Sometimes these viruses then spread to different animal species. The viruses may change (mutate) as they transfer to other species. Eventually, the virus can jump from animal species and begin to infect humans. In the case of SARS-CoV-19, the first people infected are thought to have contracted the virus at a food market that sold meat, fish and live animals.
+Across the world, people are facing unforeseen challenges due to Coronavirus pandemic. Almost 213 countries are under the influence of the virus and the whole world population is uncertain about how long this pandemic will last. The only thing that can prevent its exponential growth apart from a vaccine is to be well aware of the situation and follow the necessary precautions. In this project, we design and develop  web application for online test and bed slot booking system for patient. The Covid 19 app connects the people with the hospital and the administration to come together and fight the pandemic. With this app, one can track the vaccination appointment, history and covid solution guidelines for symptoms. Web applications like these help to provide the essential information about solution for covid in this pandemic.
 
-*You can find more about COVID-19 here: [`COVID-19`](https://en.wikipedia.org/wiki/COVID-19)* 
+App will provide Online Registration System is a framework to link various hospitals across the country for  mobile number (email) based online registration and appointment system through Hospital Management Information System (HMIS) has been digitalized. Portal facilitates online appointments with various departments of different Hospitals using  data of CNIC number. Detail reports showing information about test and vaccination patients taking appointment through this portal can be seen. Hospitals can come on board this platform and provide their appointment slots for online booking by patients. The system facilitates Hospitals to easily manage their registration and appointment process and monitor the flow of patients.
 
-![image](https://upload.wikimedia.org/wikipedia/commons/4/48/Fphar-11-00937-g001.jpg)
-
-## Problem Statement
-
-People have issue in locating which hospital has available beds before they can take care loved one's for a checkup.
-
-![image](https://images.thestar.com/2gIzqRR91DcvDb474M0Bn6t2vLU=/1280x1024/smart/filters:cb(1570037578297)/https://www.thestar.com/content/dam/thestar/life/health_wellness/2010/08/29/smart_hospital_beds_take_care_of_patients/hospitalbedsjpg.jpeg)
-
-## Our Solution 
-
-- Providing a platform “Kahan” for global partnerships (sponsorships with different hospitals):
-  - **_“Coral Gardeners”_**  platform where people gather information about Coral Reefs and how to preserve them.
-  - World Map that provides clear indicators & upcoming events.
-  - The community will be informed about the activities that our partners sponsored.  
-- To promote and train people of all ages using augmented reality with the help of AI so they can apply real-time techniques effectively. Our platform will be a hub for people, companies and public bodies that sync their efforts related with Coral Reef preservation. Funds, grants, events and other related activities’ data are standardised and stored on our platform. People could find the most updated data on our servers. 
-
-## How We Can Make A Difference
-### Coral Reef Restoration
-Coral reefs can be restored through the following ways: 
- - coral farming, 
- - creating substrates, 
- - relocation, 
- - invasive algae, 
- - micro-fragmentation and, 
- -fusion.
-
-### Our Platform: Coral Gardeners
-Our platform will provide a list of restoration activities globally. We will be an intermediary between experts who undertake these activities, volunteers, sponsor companies and enthusiasts.   
-- CTA Button 1: Join Upcoming Diving Event 
-- CTA Button 2: Dive to meta Coral Reef virtually
-- CTA Button 3: Buy a Coral NFT
-
-## Active Involvement and make real impact:
-### Snorkelling or Scuba-diving 
-Join a micro-fragmentation diving event 
-Support locals to do micro-fragmentation (like “Adopt a Coral”) 
-Data comparisons to measure our impact (A/B Testing for scientific usage)
-
-**Ömer Kılıç diving**
-
-![image](https://drive.google.com/uc?export=view&id=1Qrim18Uy-659NpcXYFdyT7Um7tV6Yuzq)
+##ER- Diagram
+ ![image-ER](https://user-images.githubusercontent.com/108192526/175801530-236e8350-47c0-45b8-b03f-1ab641e2db52.jpeg)
+ 
+##Module List 
+Admin 
+•	All Patient details 
+•	Report of Covid test/vaccination 
+o	Test report, Vaccination (Date/week/monthly report)
+•	List of vaccine 
+o	available or unavailable
+•	Approval Hospital Login 
+•	List of hospitals
+•	Booking Details
+Hospital
+•	Register 
+•	Login 
+•	List of patient details 
+•	Request from patient (Covid test/Vaccination)
+o	Approve or Reject
+•	Update Covid test result
+•	Update Vaccination status
+Patient 
+•	Register 
+•	Get OTP 
+•	Verify OTP
+•	Login
+•	Search Covid Test/Vaccination hospital
+•	Request for Covid Test/Vaccination for hosptial 
+•	Report of covid test/Vaccination taken 
+•	Book Hospital appoinment 
+•	My appoinment
+•	View Results 
+•	My profile
 
 
-### Virtual World (metaverse or others..) tour
-Re-direct to a metaverse tour with a group of people together
-Provide an NFT artefacts marketplace where the revenue generated will be used on the above activities
+##Modules Description 
 
-### Micro-fragmentation
-Micro-fragmentation technique is pretty new &  labor-intensive. CORAL GARDENERS play a vital role to enable collaboration among experts, volunteers, sponsors and all the rest of our small world village..
+#Admin
+•	All patient details 
+o	View all patient profile details 
+•	Report of COVID - 19 
+o	patient, COVID – 19 test report(Date wise report)
+o	Admin can export the details in xls format by date , week and month wise report 
+•	List of vaccine 
+o	available or unavailable
+o	Admin can view the availability of the vaccination 
+•	Approve Hospital Login
+o	Approve or Reject
+o	Once the request for appoinment from patient side, it will be approved from the admin 
+•	List of hospitals
+o	Admin can view  the hosptial details 
+•	Booking Details
+o	Admin can view the booking details from parent side for booking COVID -  19 test results
 
-![image](https://drive.google.com/uc?export=view&id=1i2vaPEIY0fKSr_gNfqSZa_hLNDyYYdRM)
+#Hospital
+•	Register & Login 
+o	Can register and login into the app with hospital name, address and location details.
+•	List of patient details
+o	Hospitals can be view the patient details who are all approve for COVID – 19 tests.
+•	Request from patient
+o	Hospitals can be request to the patient from the hospital side who are all approved / rejected for covid – 19 test / vaccination.
+•	Update covid – 19 result 
+o	Hospitals will be updated the patient’s covid – 19 results.
+•	Update vaccination status
+o	Hospitals will be updated the patient’s vaccination status.
 
-## Marketplace for NFT creators
-CORAL GARDENERS will provide a marketplace for NFT creators who have underwater related arts. We are open to partnership with other NFT buying/selling marketplaces to increase our impact.
+#Patient
+•	Register & Login
+o	 Patient Can register and login into the app with patient name, address and location details.
+•	Get OTP and verify OTP
+o	Patient Can register once they get OTP number and enter the OTP number can be verified from the admin
+•	Search covid-19 / vaccination hospital
+o	Patient Can search the covid-19  hospitals and get from the vaccination hospitals
+•	Request for covid-19 test / vaccination hospital
+o	A Patient Can request to the hospital for the covid-19 test. It will approve patient can taken vaccination from the hospitals
+•	Report of covid test/Vaccination taken 
+o	A Patient can take the covid-19 test result report and their suggestion vaccination.
+•	Book Hospital appoinment 
+o	A Patient will booking the appointment from the hospitals and tested the covid-19 tests.
+•	My appointment
+o	A Patient will check the appointment timing and hospital details from the My appointement module.
+•	View Results 
+o	A Patient can view their covid-19 test results and vaccination suggestions also.
+•	My profile
+o	A patient will check the profile details and also edit or delete the other information also.
 
-### PARTNERSHIPS
-- Sponsor our events
-- Transparent social responsibility 
 
-***Mother Coral’s 💟 needs require multi-stakeholder partnership globally. CORAL GARDENERS provides the necessary talent, motivation for social mobilization and measurable social responsibility activities.***
 
-[85 Miles of Atlantic Coral Reef Stayed Hidden Until Now](https://www.livescience.com/63442-new-coral-reef-found.html)
+
+
+
 
 
 ## Technology Used
-- [Oracle APEX](https://apex.oracle.com/en/)
-- NFT
+- HTML-CSS (Frontend)
+- Flask Framework (Backend)
 - [Canva](https://www.canva.com)
-- [Adobe Photoshop - Canvas](https://www.adobe.com/)
 
-## Building the Coral Gardeners.sql file
-**_Steps_**
-  -  Login to APEX as the developer with your credentials
-  
-  ![image](https://drive.google.com/uc?export=view&id=1347A_AQ1kocTwb3W0lMFN7Di03BWWJ-m)
-  
-  -  if you want to install the app (which is an SQL file) you need to do the Import of the Application and pass that file across to import and build the 
-     supporting objects
-  - You should run the script connected to SQL*Plus as the Oracle user APEX_220100 or as the owner (parsing schema) of the application
-  -  or for standard tables use SQL Workspace to run sql script provided
-  -  Use Object Browswer to see what database objects the script has created. TADA
 
-![image](https://drive.google.com/uc?export=view&id=1mXlCXNGoyx-FXU0gSI0e8WC7Cjt6ByrK)
 
 ## Research Document
 [Look at our Research Document, please!](https://docs.google.com/document/d/10IbE9c50wdzqiuzbYAXASws7El42F2Wu2A7X2pXdGYM/edit)
@@ -112,12 +126,4 @@ CORAL GARDENERS will provide a marketplace for NFT creators who have underwater 
 
 ## Our Amazing Team
 
-![image](https://drive.google.com/uc?export=view&id=1UmNAywayFWZ3WzFjQA1OmYnsRvmsPpKq) 
-## United Nations Targeted SDG’s (Sustainable Development Goals) 
-
-<img align="left" width="200" height="200" src="https://geca.eco/wp-content/uploads/2021/09/8_SDG_MakeEveryDayCount_Gifs_GDU.gif">
-<img align="left" width="200" height="200" src="https://itpo-germany.org/wp-content/uploads/2021/06/9_SDG_MakeEveryDayCount_Gifs_GDU.gif">
-<img align="left" width="200" height="200" src="https://drive.google.com/uc?export=view&id=1yWsPJCIS7d0btHrVEOWEfIQht9fJA8KP">
-<img align="left" width="200" height="200" src="https://drive.google.com/uc?export=view&id=1bgsCpGHovZ_nX-1vCvIv-XTfOuH5Qp_Q">
-<img align="left" width="200" height="200" src="https://drive.google.com/uc?export=view&id=11iRNTzfTUhCLroc1jm5vBYCSYxvGcJ60">
-
+![Team Kahan](https://user-images.githubusercontent.com/108192526/175800974-6e6621f3-b275-4da4-907e-8ceb9491b53c.jpg) 
