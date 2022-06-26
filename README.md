@@ -55,6 +55,7 @@ App will provide Online Registration System is a framework to link various hospi
 
       o	Admin can view the booking details from parent side for booking COVID-19 test results
 
+
 # Hospital
 
 •	Register & Login 
@@ -76,6 +77,7 @@ App will provide Online Registration System is a framework to link various hospi
 •	Update vaccination status
 
       o	Hospitals will be updated the patient’s vaccination status.
+      
 
 # Patient
 
@@ -120,8 +122,6 @@ App will provide Online Registration System is a framework to link various hospi
 
 
 
-
-
 ## Technology Used
 - HTML-CSS (Frontend)
 - Flask Framework (Backend)
@@ -132,8 +132,6 @@ App will provide Online Registration System is a framework to link various hospi
 ## Research Document
 [Look at our Research Document, please!](https://docs.google.com/document/d/10IbE9c50wdzqiuzbYAXASws7El42F2Wu2A7X2pXdGYM/edit)
 
-## Presentation Slides
-[Our presentation slides, please !](https://docs.google.com/presentation/d/1enL62UDvzbNuPkFUlX1hiT0SCmMeUw5ksvug5ez0YnQ/edit#slide=id.g126be710dcb_7_11)
 
 ## Final Video
 [*To be a champion, compete; to be a great champion, compete with the best; but to be the greatest champion, compete with yourself*](https://www.youtube.com/watch?v=NhgYni1v8QI&feature=emb_logo)
