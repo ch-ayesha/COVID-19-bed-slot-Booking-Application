@@ -1,6 +1,6 @@
 # COVID-19-bed-slot-Booking-Application
 # PowerToFly Diversity Hackathon 2022  
-[![image](https://drive.google.com/file/d/1VQcWe5VRa_brmN9c23lgJnGf4iZLNgXD/view?usp=sharing)]
+![image](https://media-exp2.licdn.com/dms/image/C5622AQHKIuI-8LrJaw/feedshare-shrink_800/0/1656010444025?e=1658966400&v=beta&t=nkls2PbqABTYhar0xfZ8vi5Gb8GPKYLAlIarou_q5ic)
 ---------------------------------------------------------------------------------------------- 
 
 # Challenge Theme # 1 - Enviornment & Sustainabiliity
