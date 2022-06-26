@@ -15,7 +15,7 @@ Coronaviruses are often found in bats, cats and camels. The viruses live in but 
 
 *You can find more about COVID-19 here: [`COVID-19`](https://en.wikipedia.org/wiki/COVID-19)* 
 
-![image](https://en.wikipedia.org/wiki/COVID-19#/media/File:Fphar-11-00937-g001.jpg)
+![image](https://upload.wikimedia.org/wikipedia/commons/4/48/Fphar-11-00937-g001.jpg)
 
 ## Problem Statement
 
