@@ -1,7 +1,7 @@
 # COVID-19-bed-slot-Booking-Application
 # PowerToFly Diversity Hackathon 2022  
  
-![image]([https://drive.google.com/file/d/1VQcWe5VRa_brmN9c23lgJnGf4iZLNgXD/view?usp=sharing](https://drive.google.com/file/d/1iPt9MtOn9eIch8NgK85fXjJulhkyRFaX/view?usp=sharing))
+![image]([https://drive.google.com/file/d/1VQcWe5VRa_brmN9c23lgJnGf4iZLNgXD/view?usp=sharing](https://drive.google.com/file/d/1iPt9MtOn9eIch8NgK85fXjJulhkyRFaX/view?usp=sharing)
 
 # Challenge Theme # 1 - Enviornment & Sustainabiliity
 # Kahan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresor)
